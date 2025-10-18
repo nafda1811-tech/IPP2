@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class VowelsCounter {
     public static void main(String[] args) {
 
-        System.out.println("Программа для подсчета гласных. Приветствую Вас, Пользователь!");
+        System.out.println("Программа для подсчета гласных. Приветствую Вас, Пользователь!!!");
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите строку: ");
